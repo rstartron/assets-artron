@@ -1,0 +1,2 @@
+# assets-artron
+static assets
